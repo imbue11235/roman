@@ -1,4 +1,4 @@
-# Roman [![Test Status](https://github.com/imbue11235/roman/workflows/Go/badge.svg)](https://github.com/imbue11235/roman/actions?query=workflow:Go)
+# Roman [![Test Status](https://github.com/imbue11235/roman/workflows/Go/badge.svg)](https://github.com/imbue11235/roman/actions?query=workflow:Go) [![Go Reference](https://pkg.go.dev/badge/github.com/imbue11235/roman.svg)](https://pkg.go.dev/github.com/imbue11235/roman)
 Package `roman` provides functions for converting arabic to roman numerals and back
 
 ## Motivation
